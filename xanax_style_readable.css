@@ -234,6 +234,8 @@ ul.thin li {
     height: 88px;
     background: url(http://i.imgur.com/XWNig5M.png) no-repeat top left;
     margin: 0 auto;
+    background-size:contain;
+    margin-top: 1em;
 }
 
 #logo a {
